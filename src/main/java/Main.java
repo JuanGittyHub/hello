@@ -11,7 +11,6 @@
 public class Main {
     public static void main (String args[])
     {
-        System.out.println("Hello \n 
-        To change this license header, choose License Headers in Project Properties.");
+        System.out.println("Hello \n To change this template file, choose Tools \n To change this license header, choose License Headers in Project Properties.");
     }
 }
